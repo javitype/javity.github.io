@@ -8,7 +8,7 @@
 
 <?php
 
-        $name = "Vapme";
+        $name = "javity";
 
         echo "Nigger, " . $name
 
